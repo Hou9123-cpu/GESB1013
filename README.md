@@ -1,1 +1,1 @@
-# GESB1013
+The calculation result is achieved by python and its tool package. The source code is saved as data.py (csv data processing) and statistics.py(calculating). The data is stored as filtered_data.csv. You can check the code and data and run them on ![Uploading image.png…]()
